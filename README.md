@@ -5,8 +5,8 @@ Full Stack Developer!
 ---------------------
 
 *   🌍  I'm based in Telangana, India
-*   🖥️  See my portfolio at [website](http://fullstacklab.org)
-*   ✉️  You can contact me at [thestackdev@fullstacklab.org](mailto:thestackdev@fullstacklab.org)
+*   🖥️  See my portfolio at [website](https://codefusionz.com)
+*   ✉️  You can contact me at [shanmukeshwar@codefusionz.com](mailto: shanmukeshwar@codefusionz.com)
 *   🧠  I'm learning Automation
 
 ### Skills 
