@@ -5,8 +5,8 @@ Full Stack Developer!
 ---------------------
 
 *   🌍  I'm based in Telangana, India
-*   🖥️  See my portfolio at [website](https://codefusionz.com)
-*   ✉️  You can contact me at [shanmukeshwar@codefusionz.com](mailto: shanmukeshwar@codefusionz.com)
+*   🖥️  See my portfolio at [website](https://shanmukeshwar.dev)
+*   ✉️  You can contact me at [shanmukeshwar03@gmail.com](mailto: shanmukeshwar03@gmail.com)
 * I’m a skilled developer with a passion for building innovative and impactful software solutions.
 
 ### Skills 
