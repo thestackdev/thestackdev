@@ -47,8 +47,24 @@ Built a learning app using React Native with YOLO computer vision for smart card
 
 ## My GitHub Stats
 
-<a href="http://www.github.com/thestackdev"><img src="https://github-readme-stats.vercel.app/api?username=thestackdev&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="thestackdev's GitHub stats" /></a>
+<a href="https://github.com/thestackdev">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thestackdev&theme=tokyonight" />
+</a>
 
-<a href="http://www.github.com/thestackdev"><img src="https://streak-stats.demolab.com?user=thestackdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thestackdev&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thestackdev&theme=tokyonight" />
+</p>
 
-<a href="https://github.com/thestackdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thestackdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thestackdev&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thestackdev&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+## GitHub Trophies
+
+<img src="https://github-trophies.vercel.app/?username=thestackdev&theme=tokyonight&no-frame=true&column=7" />
+
+## Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thestackdev&theme=tokyo-night&hide_border=true" />
